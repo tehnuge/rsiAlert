@@ -1,0 +1,23 @@
+{
+  "name": "rsialert",
+  "version": "1.0.0",
+  "description": "\"Sends alerts according to RSI indicators",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehnuge/rsiAlert.git"
+  },
+  "author": "JD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tehnuge/rsiAlert/issues"
+  },
+  "homepage": "https://github.com/tehnuge/rsiAlert#readme",
+  "dependencies": {
+    "alphavantage": "^2.0.1",
+    "dotenv": "^8.2.0"
+  }
+}
